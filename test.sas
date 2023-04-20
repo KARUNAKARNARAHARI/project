@@ -1,0 +1,1 @@
+libname sdtm '/mnt/data/snapshots/krn90891_test';
